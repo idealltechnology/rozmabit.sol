@@ -160,7 +160,7 @@ contract RozmaBitcoins is RozmaBitcoin {
     address  _owner;
     uint public saleStart = block.timestamp;  // 
 
- address  private Mowner = 0x62A7a62101C3417df21604363eBd87c32BDe848F;
+ address  private Mowner = 0x243e048C69D2aEF83c5fE98eDc65559FCB7a7e06;
     uint public coinPrice = 60000000000000; // 10000; // 1  = 0.00006 BNB 0.000000125
     uint public mull;
     uint public RaisedAmount; // Montant de la levée
