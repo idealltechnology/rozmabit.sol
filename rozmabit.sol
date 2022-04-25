@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.7.0 <0.9.0;
 
-import "https://github.com/idealltechnology/rozmabit.sol/blob/master/lib.sol";
+import "https://github.com/idealltechnology/rozmabit.sol/blob/master/libs.sol";
 
 contract RozmaBitcoin is Context, IBEP20, Ownable {
   using SafeMath for uint256;
